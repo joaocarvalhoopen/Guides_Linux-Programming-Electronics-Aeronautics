@@ -6,10 +6,10 @@ For sometime now, I'm making this small guides that I call **How to learn modern
 
 ## List of my small guides 
 
-* How to learn modern **electronics** <br>
+* How to learn modern **Electronics** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
 
-* Most common **components in electronics** <br>
+* Most common **Components in electronics** <br>
   [https://github.com/joaocarvalhoopen/Most_common_components_in_electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics)
 
 * How to learn modern **Linux** <br>
