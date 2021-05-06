@@ -42,6 +42,9 @@ For sometime now, I'm making this small guides that I call **How to learn modern
 * How to learn **guitar on a budget** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_guitar_on_a_budget](https://github.com/joaocarvalhoopen/How_to_learn_guitar_on_a_budget)
 
+* **Piano and Guitar** - Notes on how to learn to play a musical instrument <br>
+  [https://github.com/joaocarvalhoopen/Piano_and_Guitar_-_Notes_on_how_to_learn_to_play_a_musical_instrument](https://github.com/joaocarvalhoopen/Piano_and_Guitar_-_Notes_on_how_to_learn_to_play_a_musical_instrument)
+
 
 ## Have fun
 Best regards, <br>
