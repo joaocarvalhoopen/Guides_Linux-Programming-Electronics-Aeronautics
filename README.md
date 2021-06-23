@@ -18,6 +18,9 @@ For sometime now, I'm making this small guides that I call **How to learn modern
 * How to learn modern **Embedded Systems** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems)
 
+* How to become dangerous in **algorithms** <br>
+  [https://github.com/joaocarvalhoopen/How_to_become_dangerous_in_algorithms](https://github.com/joaocarvalhoopen/How_to_become_dangerous_in_algorithms)
+
 * Simple notes on the **C Programming Language** <br>
   [https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language](https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language)
 
