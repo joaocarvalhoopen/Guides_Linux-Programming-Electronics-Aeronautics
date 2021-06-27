@@ -24,6 +24,9 @@ For sometime now, I'm making this small guides that I call **How to learn modern
 * How to learn **Mathematics** from the ground up <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_Mathematics_from_ground_up](https://github.com/joaocarvalhoopen/How_to_learn_Mathematics_from_ground_up)
 
+* How to learn **Physics** from the ground up <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_Physics_from_the_ground_up](https://github.com/joaocarvalhoopen/How_to_learn_Physics_from_the_ground_up)
+
 * Simple notes on the **C Programming Language** <br>
   [https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language](https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language)
 
