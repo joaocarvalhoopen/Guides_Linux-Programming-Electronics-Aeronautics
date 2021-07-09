@@ -55,6 +55,6 @@ For sometime now, I'm making this small guides that I call **How to learn modern
   [https://github.com/joaocarvalhoopen/Piano_and_Guitar_-_Notes_on_how_to_learn_to_play_a_musical_instrument](https://github.com/joaocarvalhoopen/Piano_and_Guitar_-_Notes_on_how_to_learn_to_play_a_musical_instrument)
 
 
-## Have fun
+## Have fun!
 Best regards, <br>
 João Nuno Carvalho
