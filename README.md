@@ -18,6 +18,12 @@ For sometime now, I'm making this small guides that I call **How to learn modern
 * How to learn modern **Embedded Systems** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems)
 
+* **Nice things to do with a Micro-Controller** <br>
+  [https://github.com/joaocarvalhoopen/Nice_things_to_do_with_a_Micro-Controller](https://github.com/joaocarvalhoopen/Nice_things_to_do_with_a_Micro-Controller)
+
+* **DSP** algorithms - **Project ideas** <br>
+  [https://github.com/joaocarvalhoopen/DSP_algorithms___Project_ideas](https://github.com/joaocarvalhoopen/DSP_algorithms___Project_ideas) 
+
 * How to become dangerous in **Algorithms** <br>
   [https://github.com/joaocarvalhoopen/How_to_become_dangerous_in_algorithms](https://github.com/joaocarvalhoopen/How_to_become_dangerous_in_algorithms)
 
